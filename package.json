@@ -1,0 +1,22 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "测试npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouxiazxzxzx/npm-test.git"
+  },
+  "keywords": [
+    "lalalala"
+  ],
+  "author": "zhouxia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhouxiazxzxzx/npm-test/issues"
+  },
+  "homepage": "https://github.com/zhouxiazxzxzx/npm-test#readme"
+}
