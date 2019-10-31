@@ -1,5 +1,5 @@
 {
-  "name": "npm-test",
+  "name": "npm-test-lalalala",
   "version": "1.0.0",
   "description": "测试npm",
   "main": "index.js",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/zhouxiazxzxzx/npm-test/issues"
   },
-  "homepage": "https://github.com/zhouxiazxzxzx/npm-test#readme"
+  "homepage": "https://github.com/zhouxiazxzxzx/npm-test#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
 }
